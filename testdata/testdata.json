@@ -1,0 +1,12 @@
+{
+  "test1":{
+    "departlocation": "New",
+    "goingtolocation": "New",
+    "depaturedate": "24/02/2023"
+  },
+  "test2": {
+    "departlocation": "Mumbai",
+    "goingtolocation": "New",
+    "depaturedate": "31/01/2023"
+  }
+}
